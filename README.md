@@ -61,8 +61,8 @@
 
 <item>
 <title>[COLOR white][B]LISTA 4[/B][/COLOR]</title>
-<link>https://pastebr.xyz/raw/HRRRwXuTFo</link>
-<externallink>https://pastebr.xyz/raw/HRRRwXuTFo</externallink>
+<link>https://raw.githubusercontent.com/RAMALHOTV/VIP4/main/README.md</link>
+<externallink>https://raw.githubusercontent.com/RAMALHOTV/VIP4/main/README.md</externallink>
 </item>
 
 
